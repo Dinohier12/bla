@@ -7,6 +7,7 @@
 	<?php
 
 		echo rand(1,500);
+        echo "Dino was er ook";
 	?>
 </body>
 </html>
